@@ -1,3 +1,10 @@
+Warning before all
+==========
+
+I know that there are some students might have the same assignment.
+But please don't copy the code, since your teacher will find my code as well.
+
+
 Search-Engine
 =============
 
